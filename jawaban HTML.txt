@@ -1,0 +1,19 @@
+Jawaban 
+
+1. ada kesalahan pada kode -> <meta HTTP-EQUIV="REFRESH" content="0; url=/myweb/myurl">
+
+dimana pada content dan url kekurangan " untuk menutup kontennya masing masing 
+setelah dilengkapi " ke 2 nya , baru bisa berjalan
+
+
+2. ketika ada kata "REFRESH" maka browser akan merefresh web, namum disini content nya di beri
+nilai "0" , yang mana menyebabkan terus merefresh tanpa henti , dengan di beri content 5 ,
+ maka hanya akan merefresh sebanyak 5 kali
+
+3. Table: thead, tbody, tr, th serta td! 
+table untuk membuat tabel
+thead untuk membuat kolom 
+tbody untuk membuat baris 
+tr -> untuk membuat tabel row (kekanan)
+th -> memkustomisasi tinggi tabelnya 
+td -> untuk mengisi tabel data/ tabel baris (kebawah) 
