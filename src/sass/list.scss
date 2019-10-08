@@ -1,6 +1,0 @@
-$colors: red yellow blue teal orange;
-@each $color in $colors {
-.bg-#{''+$color} {
-background: $color;
-}
-}

@@ -1,9 +1,0 @@
-@mixin transform($property) {
--webkit-transform: $property;
--ms-transform: $property;
-transform: $property;
-}
-// menggunakan mixins
-.box {
-@include transform(rotate(30deg));
-}
